@@ -19,8 +19,8 @@
         "symfony/event-dispatcher": "*"
     },
     "conflict": {
-        "kriswallsmith/spork" : "<=0.3"
-    }
+        "kriswallsmith/spork" : "*"
+    },
     "autoload": {
         "psr-0": { "Spork": "src/" }
     }
